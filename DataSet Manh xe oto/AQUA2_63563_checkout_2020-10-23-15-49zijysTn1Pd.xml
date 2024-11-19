@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>AQUA2_63563_checkout_2020-10-23-15-49zijysTn1Pd.jpg</filename>
+	<path>C:\Users\huynh\Downloads\DataSet\AQUA2_63563_checkout_2020-10-23-15-49zijysTn1Pd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>266</ymin>
+			<xmax>235</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

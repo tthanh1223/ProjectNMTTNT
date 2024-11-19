@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>AEONTP_6A00530_checkin_2020-1-13-16-16i7h_Z3Ua0Y.jpg</filename>
+	<path>C:\Users\huynh\Downloads\DataSet\AEONTP_6A00530_checkin_2020-1-13-16-16i7h_Z3Ua0Y.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>623</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>381</ymin>
+			<xmax>402</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

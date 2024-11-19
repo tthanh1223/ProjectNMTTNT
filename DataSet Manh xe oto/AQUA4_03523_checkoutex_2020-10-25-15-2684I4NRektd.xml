@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>AQUA4_03523_checkoutex_2020-10-25-15-2684I4NRektd.jpg</filename>
+	<path>C:\Users\huynh\Downloads\DataSet\AQUA4_03523_checkoutex_2020-10-25-15-2684I4NRektd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>607</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>170</ymin>
+			<xmax>198</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

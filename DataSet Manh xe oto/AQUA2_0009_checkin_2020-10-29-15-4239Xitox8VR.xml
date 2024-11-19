@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>AQUA2_0009_checkin_2020-10-29-15-4239Xitox8VR.jpg</filename>
+	<path>C:\Users\huynh\Downloads\DataSet\AQUA2_0009_checkin_2020-10-29-15-4239Xitox8VR.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>267</ymin>
+			<xmax>278</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
