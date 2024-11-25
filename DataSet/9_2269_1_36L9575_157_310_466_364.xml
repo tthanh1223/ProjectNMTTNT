@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>9_2269_1_36L9575_157_310_466_364.jpg</filename>
+	<path>C:\Users\huynh\Downloads\test\9_2269_1_36L9575_157_310_466_364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>315</ymin>
+			<xmax>453</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

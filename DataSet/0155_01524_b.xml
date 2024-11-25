@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoang</folder>
+	<filename>0155_01524_b.jpg</filename>
+	<path>C:\Users\HOANG\Desktop\upload code\ProjectNMTTNT\hoang\0155_01524_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>166</ymin>
+			<xmax>280</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

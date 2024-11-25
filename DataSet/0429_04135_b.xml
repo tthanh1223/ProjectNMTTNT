@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>0429_04135_b.jpg</filename>
+	<path>C:\Users\nkhoa\OneDrive\Documents\CSLT Project\Demo\DataSet\0429_04135_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>66</ymin>
+			<xmax>235</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

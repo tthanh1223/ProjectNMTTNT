@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thanh</folder>
+	<filename>0443_04873_b.jpg</filename>
+	<path>D:\PycharmProjects\ProjectNMTTNT\thanh\0443_04873_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>138</ymin>
+			<xmax>252</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
